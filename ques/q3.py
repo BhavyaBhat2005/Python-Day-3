@@ -1,0 +1,1 @@
+#write a program to calculate the average of a given list
