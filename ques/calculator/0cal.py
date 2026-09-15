@@ -1,0 +1,1 @@
+#create a calculator where you add, subract, multiply, divide, factorial, enter input. do not use functions.
